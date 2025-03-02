@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Exploratory Data Analysis (EDA)**
 
-- 👯 I’m looking to collaborate on **AI & ML projects involving predictive analytics**
-
 - 📫 How to reach me **prathameshnalage123@gmail.com**
 
 - ⚡ Fun fact **😄 Apart from coding, I am a state-level cricket player and a passionate event organizer!**
